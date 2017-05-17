@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Activity Recognition</string>
+    //se lo volessimo rimettere
+    <string name="action_settings">Settings</string>
+
+    <string name="str_Intro">The activity recognition program will record your data from phones sensor and band, please select the folder and start the session...Enjoy</string>
+    <string name="str_Status">Recorders Status: </string>
+
+    <string name="str_phone">Phone Sensors</string>
+    <string name="str_band">Band Sensors</string>
+    <string name="str_beacon">Beacons Finder</string>
+
+    <string name="str_diritti">Un progetto di:\n Marco Maiolatesi, Enrico Cecchetti e Alex De Cesare</string>
+
+
+</resources>
